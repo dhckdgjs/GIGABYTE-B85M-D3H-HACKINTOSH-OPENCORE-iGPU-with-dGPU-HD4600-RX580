@@ -42,7 +42,7 @@ Check some options(I don't think it's necessary):
 
 ```
 
-Ref. [GUIDE General Framebuffer Patching Guide (HDMI Black Screen Problem) | tonymacx86.com](https://www.tonymacx86.com/threads/guide-general-framebuffer-patching-guide-hdmi-black-screen-problem.269149/)
+Ref. Dortania's OpenCore Install Guide for Haswell (https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html)
 
 Done
 
